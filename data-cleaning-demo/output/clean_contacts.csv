@@ -1,0 +1,7 @@
+Full Name,Email,Phone,Company,Signup Date,email_valid,phone_valid
+Alice Wong,alice.wong@gmail.com,(555) 666-7777,Stark Industries,2023-03-20,True,True
+Bob Brown,bob@company.io,(555) 444-5555,Hooli,2023-03-03,True,True
+Jane Doe,jane.doe@yahoo.com,(555) 987-6543,Globex,2023-01-06,True,True
+John Smith,john.smith@gmail.com,(555) 123-4567,Acme Inc,2023-01-05,True,True
+Mary Johnson,mary@example.com,(555) 222-3333,Initech,2023-02-14,True,True
+Tom Lee,tom.lee@@gmail.com,12345,Wayne Enterprises,,False,False
