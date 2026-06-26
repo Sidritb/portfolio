@@ -24,8 +24,9 @@ spreadsheet with standardized phones, emails, and dates — plus a cleaning repo
 | Recurring scraping / automation | $100+ | custom |
 
 ## 📬 Contact
-- **Fiverr:** _add your gig link_
-- **Upwork:** _add your profile link_
-- **Email:** _add your email_
+- **GitHub:** [github.com/Sidritb](https://github.com/Sidritb)
+- **Email:** sidritbazelli1234@gmail.com
+- **Fiverr:** _coming soon_
+- **Upwork:** _coming soon_
 
 *Built with Python (requests, BeautifulSoup, pandas).*
